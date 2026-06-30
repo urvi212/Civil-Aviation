@@ -23,20 +23,14 @@ OD Pair table with Passenger Count, Passenger per Day, and Opportunity Score.
 🛠️ Tools Used
 
 Power BI
-
 Power Query
-
 DAX
-
 Microsoft Excel
 
 
 📈 Business Value
 
 Identifies high-demand routes.
-
 Analyzes passenger travel trends.
-
 Supports airline route planning and airport infrastructure decisions.
-
 Helps identify potential opportunities for new flight services.
